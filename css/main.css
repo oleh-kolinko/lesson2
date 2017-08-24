@@ -1,0 +1,22 @@
+html, body{
+   height:100%;
+}
+#home{
+  background: url('../img/header.jpg');
+  background-size: cover;
+  height:100%;
+  background-position: center;
+  position: relative;
+}
+#home .head{
+  text-align: center;
+  width: 100%;
+  display: table;
+  color: white;
+  position: absolute;
+  top:30%;
+}
+.btn{
+  padding: 20px;
+  border-radius: 300px;
+}
